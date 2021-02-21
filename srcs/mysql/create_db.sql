@@ -1,5 +1,5 @@
 -- CREATE DATABASE wp_db;
--- CREATE USER 'mkristie'@'%' IDENTIFIED BY 'skang';
+-- CREATE USER 'skang'@'%' IDENTIFIED BY 'skang';
 -- GRANT ALL PRIVILEGES ON wp_bd.sql TO 'skang'@'%';
 -- FLUSH PRIVILEGES;
 CREATE DATABASE wp_db;

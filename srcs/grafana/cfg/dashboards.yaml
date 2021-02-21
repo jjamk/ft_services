@@ -2,7 +2,7 @@
 apiVersion: 1
 
 providers:
-- name: 'mkristie dashboard'
+- name: 'skang dashboard'
   # orgId: 1
   # folder: ''
   # folderUid: ''
